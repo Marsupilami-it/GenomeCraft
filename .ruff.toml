@@ -1,0 +1,21 @@
+[tool.ruff]
+# Основные параметры
+line-length = 88
+target-version = "py311"
+ignore = ["E501", "W503"]  # Игнорировать определенные правила
+
+# Параметры для форматирования
+format = true
+unfixable = ["E501"]
+
+# Параметры для исключений
+exclude = [
+    ".env/*",
+]
+
+# Параметры для тестирования
+pytest-style = true
+
+# Параметры для отдельных правил
+[tool.ruff.flake8]
+max-complexity = 10

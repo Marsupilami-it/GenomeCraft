@@ -35,6 +35,7 @@ GenomeCraft будет построена на современных техно
 ## Контакты
 
 - **GitHub**: [GenomeCraft GitHub](https://github.com/Marsupilami-it/GenomeCraft)
+- **Tg**: @Marsupilami_it
 
 ---
 
